@@ -2,7 +2,7 @@
 - Description: neural net to classify images of people with mask
 - Team: Vinay Kumar Pulavarti(111801034@smail.iitpkd.ac.in),
         Gurunadh Pachappagari(111801029@smail.iitpkd.ac.in),
-        Sai Vipul Mohan V(111801045@smail.iitpkd.ac.in)
+        Sai Vipul Mohan Veludandi(111801045@smail.iitpkd.ac.in)
 - Idea:
     - Preprocessing Model(opencv):
         - Input: Images containing multiple people with mask or without mask
