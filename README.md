@@ -8,5 +8,4 @@
         - Dataset: [face-mask-12k-images-dataset](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset) 
         - Input: Images containing single person with or without mask 
         - Output: Labels corresponding to with mask or without mask images
-        - 
 - Team: Vinay Kumar Pulavarti(111801034@smail.iitpkd.ac.in), Gurunadh P(111801029@smail.iitpkd.ac.in), Sai Vipul Mohan V(111801045@smail.iitpkd.ac.in)
